@@ -179,20 +179,20 @@ LIMIT 10;
 Want to explore the project's data, dashboards, or code? Here's how to access them directly within this repository:
 
 1.  **Excel Data & Dashboards:**
-    * Navigate to the `Data/` folder to view the raw Excel datasets.
-    * For Excel dashboards, locate the relevant files in the `Excel_Dashboards/` (or `Data/` if dashboards are integrated there) folder.
+    * View the raw Excel datasets directly here: [Data Files](https://github.com/Lomoanj/Global_Bicycle_Sales_Dashboards_/tree/main/DataSets)
+    * For Excel dashboards, find the relevant files here: [Excel Dashboards](https://github.com/Lomoanj/Global_Bicycle_Sales_Dashboards_/blob/main/Excel%20Analysis.xlsm)
     * **GitHub's built-in viewer** will allow you to preview these `.xlsx` files directly in your browser without needing to download them.
 
 2.  **Power BI Dashboards:**
-    * Download the `.pbix` files from the `PowerBI_Dashboards/` directory in this repository.
-    * Open them using **Power BI Desktop** on your computer.
+    * Access the Power BI files directly here: [Power BI Dashboards](https://github.com/Lomoanj/Global_Bicycle_Sales_Dashboards_/blob/main/PowerBI_Analytics.pbix)
+    * Download the .pbix file from this directory and open them using **Power BI Desktop** on your computer.
 
 3.  **Tableau Dashboards:**
-    * Download the `.twbx` (packaged workbook) or `.twb` (workbook) files from the `Tableau_Dashboards/` directory.
-    * Open them with **Tableau Public** on your computer.
+    * Access the Tableau files directly here: [Tableau Dashboards](https://github.com/Lomoanj/Global_Bicycle_Sales_Dashboards_/blob/main/Tableau_Analytics.twbx)
+    * Download the .twbx (packaged workbook) file from this directory and open them with **Tableau Public** on your computer.
 
 4.  **SQL Scripts:**
-    * Browse the `SQL_Scripts/` directory to view all the SQL files (`.sql`).
+    * Browse all the SQL files directly here: [SQL Scripts](https://github.com/Lomoanj/Global_Bicycle_Sales_Dashboards_/blob/main/MySQL%20Queries.sql)
     * **GitHub's code viewer** allows you to read the scripts directly in your browser. You can copy the code from here to execute in your MySQL environment.
 
 ---
