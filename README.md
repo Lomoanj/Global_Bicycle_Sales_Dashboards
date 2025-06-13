@@ -88,44 +88,44 @@ Explore the key insights and interactive dashboards developed for this project. 
 ### Raw Data (Excel) Snippet 📂📊
 A glimpse of the initial data structure from one of the Excel files, highlighting its raw format before extensive transformation. This shows the starting point of our analysis.
 
-![image](https://github.com/user-attachments/assets/abc09bcf-1302-4905-8f38-c70bc027d4ef)
+![Raw Data](https://github.com/user-attachments/assets/cdf28bb0-dcc6-400c-b0d4-70e405d69f87)
 
 ---
 
 ### Excel Dashboard Highlights 📈📑
 We also developed insightful dashboards directly within Excel, showcasing preliminary analysis and key metrics that provided foundational understanding.
-![image](https://github.com/user-attachments/assets/aef20445-3200-4b6c-a231-0b509ba8db76)
-![image](https://github.com/user-attachments/assets/0932468a-4c2f-48f8-a8e7-4da3be11f848)
-![image](https://github.com/user-attachments/assets/395cd77d-26a1-47ea-bd8a-5ea2913ea1da)
+![Excel sales](https://github.com/user-attachments/assets/dd7a2535-a657-4cba-9180-87611f22a2f2)
+![Excel Profit](https://github.com/user-attachments/assets/c9396d09-99ab-4236-9664-1ac895e69f46)
+![Excel Product](https://github.com/user-attachments/assets/037d4c8c-a0a0-40cd-9341-35daecbf9c7a)
 
 ---
 
 ### Power BI Data Model 🔗📊
 A screenshot illustrating the data model built in Power BI Desktop, showcasing the relationships and structure established between the imported tables for effective analysis.
-![PowerBI Model](https://github.com/user-attachments/assets/8ff1398e-35e8-4d89-9b4b-51f949e38fd9)
+![PowerBI Model](https://github.com/user-attachments/assets/5565d7ac-9b55-49c1-95fe-14606260b0f9)
 
 ---
 
 ### Power BI Dashboard Highlights 📈⭐
 Interactive reports built in Power BI, showcasing key insights such as sales trends, customer segments, and regional performance. These dashboards leverage Power BI's powerful data modeling and visualization capabilities.
-![PowerBI 1](https://github.com/user-attachments/assets/2a8eb26f-63b0-429a-919b-ed2fed11c345)
-![PowerBI 2](https://github.com/user-attachments/assets/325df6e6-3b23-4eec-bed4-707ecec19068)
-![PowerBI 3](https://github.com/user-attachments/assets/bab6a696-8b96-4541-80b6-43b431373ce4)
-![PowerBI 4](https://github.com/user-attachments/assets/5e29bcd5-058d-4c3f-b0de-d08161a34902)
+![PowerBI 1](https://github.com/user-attachments/assets/20a9bf79-b00a-4bcf-8c01-1f8c9f81c5dc)
+![PowerBI 2](https://github.com/user-attachments/assets/4148a254-f4ed-4688-a33e-0a52708c0ec5)
+![PowerBI 3](https://github.com/user-attachments/assets/d07fc092-1a7e-4468-93a6-910e0950337e)
+![PowerBI 4](https://github.com/user-attachments/assets/2d8e56cb-f281-4c65-b5c8-0b8181711a69)
 
 ---
 
 ### Tableau Data Model 🔗📊
 A screenshot illustrating the data model built in Tableau, showcasing the relationships and structure established between the imported tables for effective analysis.
-![Tableau Model](https://github.com/user-attachments/assets/2e5bf792-e34b-4ef7-ad49-6b7f12f8e81e)
+![Tableau Model](https://github.com/user-attachments/assets/d3d2f218-6234-492a-9242-aa839ae56048)
 
 ---
 
 ### Tableau Dashboard Highlights 📈✨
 Dynamic and exploratory dashboards created in Tableau, providing a deeper dive into product profitability, market share, and other key performance indicators.
-![Tableau 1](https://github.com/user-attachments/assets/d9a31936-449e-4a1b-8060-3162812d0f8b)
-![Tableau 2](https://github.com/user-attachments/assets/3068a724-6806-47ac-be23-5b9e306fbe8b)
-![Tableau 3](https://github.com/user-attachments/assets/08232dcc-a9bb-481a-bb37-855231f9dade)
+![Tableau 1](https://github.com/user-attachments/assets/51e8a973-a2d1-4970-a603-33fdcc51b11a)
+![Tableau 2](https://github.com/user-attachments/assets/d3bfd8d5-ac78-4e02-92cb-c7ea729cebf2)
+![Tableau 3](https://github.com/user-attachments/assets/49a6c726-3096-4897-8376-788d4b75177c)
 
 ---
 ## SQL Code Highlights 💾👨‍💻
