@@ -70,13 +70,11 @@ Through in-depth analysis of Adventure Works Cycles' sales data, we uncovered th
 
 The foundation of this project utilized 8 distinct Excel files containing historical sales data from **Adventure Works Cycles**. These specific datasets are included directly within this repository for easy access and reproducibility.
 
-* **Project Data Files:** You can find the Excel datasets used in this project here: `[Data/](https://github.com/your-username/Global_Bicycle_Sales_Dashboard/tree/main/Data)`
-    * *Please remember to replace `your-username` and `Global_Bicycle_Sales_Dashboard` with your actual GitHub username and repository name once you upload the files.*
-
+* **Project Data Files:** You can find the Excel datasets used in this project, click here: [Data](https://github.com/Lomoanj/Global_Bicycle_Sales_Dashboards_/tree/main/DataSets)
 * For reference, the original AdventureWorks sample database from Microsoft (from which these datasets are derived) can be found at:
-    * `[Microsoft SQL Server Samples - AdventureWorks on GitHub](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks)`
+    * [Microsoft SQL Server Samples - AdventureWorks on GitHub](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks)
 * A comparable community-contributed dataset in Excel format can also be found on Kaggle:
-    * `[AdventureWorks2022 - Excel Format (.xlsx) on Kaggle](https://www.kaggle.com/datasets/tituspr/adventureworks2022-excel-format)`
+    * [AdventureWorks2022 - Excel Format (.xlsx) on Kaggle](https://www.kaggle.com/datasets/tituspr/adventureworks2022-excel-format)
 
 ---
 
